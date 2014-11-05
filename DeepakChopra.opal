@@ -3,4 +3,8 @@ middles = ["nurtures an ", "projects onto ", "imparts reality to ", "constructs 
 qualifiers = ["abundance of ", "the barrier of ", "self-righteous ", "potential "]
 finishes = ["marvel.", "choices.", "creativity.", "actions."]
 
+
+
+
+
 alert starts.sample + middles.sample + qualifiers.sample + finishes.sample
